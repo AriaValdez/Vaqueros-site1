@@ -1,0 +1,235 @@
+p{
+	
+}
+
+h1, {
+	font-size:14;
+}
+
+h2{
+text-align: center;
+font-weight:700;
+padding-bottom: 70px;
+color: #F78181;
+}
+
+h3{
+	font-size:16;
+	text-align: center;
+	padding-bottom: 70px;
+}
+
+
+h4{
+	font-size:18;
+	text-align: center;
+	padding-bottom: 20px;
+	font-weight:400;
+}
+
+h5{
+	font-size:18;
+	text-align: center;
+	padding-bottom: 20px;
+	font-weight:400;
+	padding-left: 20px;
+}
+
+
+body { 
+padding-top: 70px;
+}
+
+										/* Class */ 
+
+
+.item img{
+width:100%;
+}
+
+.carousel-caption h1{
+color: white;
+}
+
+.carousel-caption {
+background: rgba(0,0,0,.6);
+}
+
+.carousel-caption p a {
+font-weight: bold;
+}
+
+.maxwidth {
+	max-width:1200px;
+}
+
+.margin {
+	margin:10px;
+}
+
+
+
+.map{
+padding-right: 80px;
+}
+
+.map2{
+padding-left: 50px;
+}
+
+footer {
+position: relative;
+width: 100%; 
+max-width: 100%px; 
+height: 40px;
+background-color: #F78181 ; 
+margin-left: auto;
+margin-right: auto;
+font-size: 12px;
+padding: 10px 0;
+margin-top: 40px;
+color: #fff;
+font-weight: 400; 
+text-align:center;
+}
+
+.navbar-brand{
+padding-bottom:55px;
+}
+	
+
+nav navbar-nav active{
+height: 180px;
+color: red;
+}	
+		
+.col-md-6  h2{
+text-align:center;
+}
+
+
+.back-to-top{
+font-size:15px;
+color: #fff;
+}
+
+.back-to-top :hover{
+color: red;
+}
+
+
+.cow{
+padding-top: 30%;
+}
+
+							/* Social media buttons */ 
+
+
+
+
+.social{
+font-size: 40px;
+font-style: normal;
+color: black;
+}
+
+
+
+.fa {
+  padding: 15px;
+  font-size: 70px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 3px;
+  border-radius: 50%;
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+
+
+
+									/* Custom nav bar */ 
+
+
+
+
+.navbar-custom {
+    background-color:white;
+    color:#ffffff;
+    border-radius:1px;
+    border-color:#FE9A2E;
+    border-bottom-width: 2px;
+    border-style: dotted solid dashed;
+
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:black;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+    color: black;
+    background-color:#F78181 ;
+    height:47px;
+    border-radius:10px;
+    margin-top: 3px;
+    
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus,
+.navbar-custom .navbar-nav > .open >a {
+    text-decoration: none;
+    background-color:#F7BE81;
+    height:47px;
+    border-radius:10px;
+    margin-top: 3px;
+}
+
+
+ul.nav.navbar-right li a {
+color: #fff
+}
+
+.navbar-custom .navbar-right > li > a:hover,
+.navbar-custom .navbar-right > li > a:focus,
+.navbar-custom .navbar-right > .active > a:hover,
+.navbar-custom .navbar-right > .active > a:focus,
+.navbar-custom .navbar-right > .open >a {
+    background-color:#848484;
+    border-radius:50%;
+}
+
+.navbar-custom .navbar-nav .dropdown-menu  { 
+  background-color: white;
+}
+.navbar-custom .navbar-nav .dropdown-menu>li>a  { 
+  color: black;
+}
+.navbar-custom .navbar-nav .dropdown-menu>li>a:hover,.navbar-custom .navbar-nav .dropdown-menu>li>a:focus  { 
+  color: #F78181;
+}
+
+
+
+
+
+
